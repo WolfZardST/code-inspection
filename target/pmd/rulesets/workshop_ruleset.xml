@@ -11,8 +11,8 @@
  	<rule ref="category/java/bestpractices.xml">
 		<exclude name="SystemPrintln" />
  	</rule>
-	 <rule ref="category/java/design.xml/ImmutableField" />
-		<rule ref="category/java/design.xml/UseUtilityClass">
+	<rule ref="category/java/design.xml/ImmutableField" />
+	<rule ref="category/java/design.xml/UseUtilityClass">
 		<priority>1</priority>
 	</rule>
 </ruleset>

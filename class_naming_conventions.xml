@@ -7,8 +7,9 @@
 	<description>
 		Class Naming Conventions Ruleset, by Ronald Cabrera
 	</description>
+	<rule ref="category/java/codestyle.xml/ClassNamingConventions" />
 	<rule ref="category/java/errorprone.xml/BeanMembersShouldSerialize" >
-		<priority>1</priority>
+		<priority>2</priority>
 	</rule>
 	<rule ref="category/java/errorprone.xml/UseLocaleWithCaseConversions" />
 	<rule ref="category/java/documentation.xml/CommentRequired">

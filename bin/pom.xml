@@ -37,7 +37,6 @@
 				 <configuration>
 					 <rulesets>
 					 	<ruleset>workshop_ruleset.xml</ruleset>
-					 	<ruleset>class_naming_conventions.xml</ruleset>
 					 </rulesets>
 	 			</configuration>
 			</plugin>
